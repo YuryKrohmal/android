@@ -1,4 +1,4 @@
-package com.example;
+package com.develop;
 
 public interface ITask<ResultType> {
 

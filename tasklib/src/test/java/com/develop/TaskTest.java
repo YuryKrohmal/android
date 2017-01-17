@@ -1,9 +1,7 @@
-package com.example;
+package com.develop;
 
 import org.junit.Test;
 import org.mockito.Mockito;
-
-import static org.junit.Assert.*;
 
 public class TaskTest {
 
